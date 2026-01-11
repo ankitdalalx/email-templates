@@ -17,7 +17,7 @@ vendor/
 # Build / compiled output
 dist/
 build/
-out/
+
 
 # IDE / Editor settings
 .vscode/
